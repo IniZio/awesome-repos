@@ -1,4 +1,5 @@
-# awesome-stars
+# Awesome Stars
+
 Awesome list of Github Repos / Users I starred / followed, esp. those that you can't really google.
 
 ## *.css
