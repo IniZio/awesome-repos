@@ -76,6 +76,7 @@ Awesome list of Github Repos / Users I starred / followed, esp. those that you c
 - [tippy](https://github.com/atomiks/tippyjs): Tooltips, has React wrapper
 - [maptalks](https://github.com/maptalks/maptalks.js): Create 2D / 3D map, supports SSR
 - [AR.js](https://github.com/jeromeetienne/AR.js): 60fps AR, even on low-end phones
+- [stencil.js](https://github.com/ionic-team/stencil): web-component framework, syntax similar to React
 
 ### Vue
 - [easytable](https://github.com/huangshuwei/vue-easytable): Nutty table component
