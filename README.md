@@ -16,6 +16,7 @@ Awesome list of Github Repos / Users I starred / followed, esp. those that you c
 - [face-api](https://github.com/justadudewhohacks/face-api.js): Check if someone is someone, in image
 - [proxy-deep](https://github.com/samvv/js-proxy-deep): Nested proxy made easy
 - [js-data](https://github.com/js-data/js-data): Underrated datastore-agnostic ORM.
+- [zet](https://github.com/terkelg/zet): Extends es6 `Set` so that it is actually useful besides removing duplicates in array
 
 ### Node
 
