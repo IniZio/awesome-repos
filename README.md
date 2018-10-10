@@ -97,7 +97,7 @@ Awesome list of Github Repos / Users I starred / followed, esp. those that you c
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB): Rxjs offline database for React, can sync with online db, literally OP
 - [react-app-location](https://github.com/bradstiff/react-app-location): No longer need to use `querystring` like an idiot
 - [sizeme](https://github.com/ctrlplusb/react-sizeme): THE component of its kind
-- [webworker](https://github.com/ghengeveld/react-webworker): Webworker communication as a component
+- [webworker](https://github.com/ghengeveld/react-webworker): Webworker communication as a component, also supports Service worker now
 - [color-extractor](https://github.com/nitin42/react-color-extractor): Know the main colors of an image
 - [toast-notification](https://github.com/jossmac/react-toast-notifications): THE toast library
 - [async-elements](https://github.com/palmerhq/react-async-elements): Ready for React Suspsense
