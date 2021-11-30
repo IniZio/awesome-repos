@@ -4,7 +4,7 @@ Awesome list of Github Repos / Users I starred / followed, esp. those that you c
 
 ## *.css
 
-- [devices.css](https://github.com/picturepan2/devices.css): Phones drawn in pure css, good for landing pages
+- [devices.css](https://github.com/picturepan2/devices.css)![GitHub last commit](https://img.shields.io/github/last-commit/picturepan2/devices.css?style=plastic): Phones drawn in pure css, good for landing pages
 - [instagram.css](https://github.com/picturepan2/instagram.css): Image filters
 - [paper.css](https://github.com/papercss/papercss): Paper theme css
 
